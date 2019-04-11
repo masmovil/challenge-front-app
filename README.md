@@ -26,6 +26,7 @@ with Exercise 1 and 2 (API & Frontend app)
 4. Bonus Points
 - Dockerizing the app.
 - Realistic unit/end-to-end tests.
-- Infinite scroll
 - Linters/code format
+- State async mutations with rxjs [redux-obserbable](https://redux-observable.js.org/)
 - Pagination state could be defined via queryParams
+- Typescript
